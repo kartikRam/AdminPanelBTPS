@@ -1,2 +1,2 @@
 # AdminPanelBTPS
-Its an admin side code for the project BTPS
+### It is an Andmin Panel of the BTPS Application. 
